@@ -1,0 +1,1 @@
+This project uses Deep Reinforcement Learning (RL) to train an AI agent in the CarRacing-v2 environment from OpenAI Gym. The AI learns to drive using Deep Q-Learning (DQN), where it processes visual frames, selects optimal actions, and improves over multiple episodes.
